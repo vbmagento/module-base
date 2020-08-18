@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Redstage Base module.
+ *
+ * @category: PHP
+ * @package: Redstage/Base
+ * @copyright: Copyright © 2020 Magento, Inc. All rights reserved.
+ * @author: Vaibhav Bhalerao <vbhalerao@redstage.com>
+ * @keywords: Module Redstage_Base
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Redstage_Base"/>
+</config>

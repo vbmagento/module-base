@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Redstage Base module.
+ *
+ * @category: PHP
+ * @package: Redstage/Base
+ * @copyright: Copyright © 2020 Magento, Inc. All rights reserved.
+ * @author: Vaibhav Bhalerao <vbhalerao@redstage.com>
+ * @keywords: Module Redstage_Base
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <!-- Add Redstage Tab -->
+        <tab id="redstage" translate="label" sortOrder="500">
+            <label>Redstage</label>
+        </tab>
+    </system>
+</config>
