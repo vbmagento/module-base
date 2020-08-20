@@ -1,5 +1,5 @@
 {
-    "name": "vbmagento/module-base",
+    "name": "vbmagento/modulebase",
     "description": "Redstage Base Module",
     "minimum-stability": "stable",
     "prefer-stable" : true,
