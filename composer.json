@@ -1,7 +1,7 @@
 {
     "name": "vbmagento/module-base",
     "description": "Redstage Base Module",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "type": "magento2-module",
     "license": [
         "OSL-3.0",
