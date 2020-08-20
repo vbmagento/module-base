@@ -2,7 +2,7 @@
     "name": "vbmagento/modulebase",
     "description": "Redstage Base Module",
     "require": {
-        "magecounty/magecounty": "dev-master"
+        "magecounty/magecounty": "1.0.0"
     },
     "minimum-stability": "stable",
     "prefer-stable" : true,
