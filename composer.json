@@ -2,12 +2,12 @@
     "name": "vbmagento/modulebase",
     "description": "Redstage Base Module",
     "require": {
-        "vbmagento/magecounty": "1.0.0"
+        "vbmagento/magecounty": "1.2.0"
     },
     "minimum-stability": "stable",
     "prefer-stable" : true,
     "type": "magento2-module",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
